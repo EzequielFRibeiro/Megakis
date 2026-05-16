@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Mega Quiz
+Comment=Jogo de Perguntas e Respostas
+Exec=bash -c "cd /home/kiel/'Área de trabalho/Mega Quis' && python3 mega_quiz.py; echo; read -p 'Pressione Enter para fechar...'"
+Icon=applications-education
+Terminal=true
+Categories=Game;Education;
